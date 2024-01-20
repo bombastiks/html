@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "parcel": "^2.11.0"
+  },
+  "engines" : { 
+    "npm" : ">=10.2.3",
+    "node" : ">=20.10.0"
   }
 }
